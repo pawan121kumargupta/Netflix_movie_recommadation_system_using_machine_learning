@@ -1,2 +1,13 @@
-# Netflix_movie_recommadation_system_using_machine_learning
-NETFLIX MOVIE RECOMMEDATION SYSTEM WITH MACHINE LEARNING
+#Requirement  of the  file:
+app.py
+dataset.csv
+main.py
+simplarity.pkl
+movies.pkl
+
+
+
+#######
+To run code in  the vs code 
+1)streamlit run app.py
+
